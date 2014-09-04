@@ -13,12 +13,6 @@ import static org.junit.Assert.*;
 
 
 
-
-
-
-
-
-
 public class VarastoTest {
 
     Varasto varasto;
